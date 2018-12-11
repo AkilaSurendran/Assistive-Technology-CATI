@@ -69,7 +69,7 @@ The rendered image of the assembled Adaptive Chair is shown below:
 ![Adaptive-Chair](Images/AC.png)
 
 ## Fabrication
-After completing the 3D model design and the assembly of the components are successful. The next step involves fabrication of the components using a Laser Cutter tool. A 6 feet by 4 feet plywood material, 18 mm thick, is placed on the Laser Cutter to cut out the components that require a thickness of 18 mm. A 3 feet by 4 feet plywood material, 10 mm thick, is also required to cut out components that require a thickness of 10 mm.
+After completing the 3D model design and the assembly of the components are successful. The next step involves fabrication of the components using a Laser Cutter tool. A 6 feet by 4 feet plywood material, 18 mm thick, is placed on the Laser Cutter to cut out the components that require a thickness of 18 mm. A 3 feet by 4 feet plywood material, 10 mm thick, is also required to cut out components that have a thickness of 10 mm.
 
 // find out fabrication process involved
 
